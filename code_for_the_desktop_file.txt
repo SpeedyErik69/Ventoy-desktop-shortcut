@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ventoy GUI
+Comment=Ventoy Multiboot USB Tool
+Exec=/home/m66/.ventoy/VentoyGUI.x86_64
+Icon=/home/m66/.iconsv/ventoy.png
+Terminal=false
+Type=Application
+Categories=Utility;
